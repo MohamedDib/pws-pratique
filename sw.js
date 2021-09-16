@@ -1,4 +1,3 @@
-	
 console.log("hello depuis le service worker");
 
 self.addEventListener('install', (evt) => {
@@ -12,4 +11,4 @@ self.addEventListener('activate', (evt) => {
 self.addEventListener('fetch', (evt) => {
     console.log('sw intercepte la requête suivante via fetch', evt);
     console.log('url interceptée', evt.request.url);
-});
+});	
