@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MohamedDib/pws-pratique/issues"
   },
-  "homepage": "https://github.com/MohamedDib/pws-pratique#readme"
+  "homepage": "https://github.com/MohamedDib/pws-pratique#readme",
+  "dependencies": {
+    "web-push": "^3.4.5"
+  }
 }

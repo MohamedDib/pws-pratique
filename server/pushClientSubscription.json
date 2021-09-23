@@ -1,0 +1,7 @@
+{
+    "endpoint": "https://wns2-db5p.notify.windows.com/w/?token=BQYAAADrOqQle1BfRdAeP%2bgAQAE2M7exPBC0onB35r%2fMCyp2zQj%2fEnRITp9KOtDzwPwpt9%2foCPOrSY6PmneS5rOh2duVed5ho9ZD9QPpYl1zE5cLU8oPQ%2bhCO9AtJIcMKnxf597XG5QOVpJ0SneMp8pZtvPE4bxDLFj4xI9A6Gj5ZU1H0LK4XRUo4Q%2b4K%2fEyi88JwN3FBMnZ2BzkbBZ%2fWSU6VV8e%2bQZCYm6cXS%2bFNY89FxdiU%2fwlWChIciPT%2fYxYWz3azL44YpPFDo8NLw0xVhy3hXEmMOjdCvQ5hKaxRdc%2fBX9KAa18jT8khmj3mNJB4s1NTXA%3d",
+    "keys": {
+      "p256dh": "BDKAQomVUh/8m9yu6lHCZzSG0VvD7n9QrBtgLFd60aIuTXEL77eP2kfTsmbFrYYH8iAQhOZsNvWTnv8KNUXSR1U=",
+      "auth": "Kea+QfAKItMJHMsflAzlQA=="
+    }
+  }
